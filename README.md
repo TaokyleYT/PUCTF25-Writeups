@@ -7,6 +7,7 @@
 |Operation Barbarossa, 1941|巴巴羅薩行動|500|Taokyle|https://github.com/TaokyleYT/PUCTF25-Operation_Barbarossa_1941-Writeup|
 |Jump Jump|Jump Jump|409|Taokyle|https://github.com/TaokyleYT/PUCTF25-Jump_Jump-Writeup|
 |The Lost Flag Reloaded|再次消失的旗幟|487|Taokyle|https://github.com/TaokyleYT/PUCTF25-The_Lost_Flag_Reloaded-Writeup|
+|Catch that Arcadeholic|捉住嗰個街機佬|136|Taokyle|https://github.com/TaokyleYT/PUCTF25-Catch_that_Arcadeholic-Writeup|
 |NuttyShell College Portal|NuttyShell 大學學生網站|490|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#NuttyShell-College-Portal|
 |JSON My Soul|JSON My Soul|115|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#JSON-My-Soul|
 |Business Intelligence|商業頭腦|399|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#Business-Intelligence|
