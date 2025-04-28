@@ -1,7 +1,7 @@
 # PUCTF25-Writeups
 
 |Title(ENG)|Title(CHN)|Final points worth|Writeup Author|Link|
-|:------------:|:------------:|:------:|:------:|:--------------------------------------:|
+|:------------|:------------|:------:|:------:|:--------------------------------------:|
 |50 points questions|50分簡單題目|50|NuttyShell|https://nuttyshell.notion.site/Guide-of-Beginner-Challenges-1ccd5c0f2b068034b994d631712f4dc0|
 |Digital Instrumentality Project|人類補完計劃|487|Taokyle|https://github.com/TaokyleYT/PUCTF25-Digital_Instrumentality_Project-Writeup|
 |Operation Barbarossa, 1941|巴巴羅薩行動|500|Taokyle|https://github.com/TaokyleYT/PUCTF25-Operation_Barbarossa_1941-Writeup|
