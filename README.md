@@ -10,6 +10,7 @@
 |Catch that Arcadeholic|捉住嗰個街機佬|136|Taokyle|https://github.com/TaokyleYT/PUCTF25-Catch_that_Arcadeholic-Writeup|
 |K1K1_Soldiers|護渏手|50|Taokyle|https://github.com/TaokyleYT/PUCTF25-K1K1_Soldiers-Writeup|
 |Minesweeper|踩地雷|498|Taokyle|https://github.com/TaokyleYT/PUCTF25-Minesweeper-Writeup|
+|NuttyShell File Manager|NuttyShell 檔案管理員|496|S017_Kadoorie|https://qiita.com/tournip/items/90da8ff66d2113c08ce8#introduction|
 |NuttyShell College Portal|NuttyShell 大學學生網站|490|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#NuttyShell-College-Portal|
 |JSON My Soul|JSON My Soul|115|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#JSON-My-Soul|
 |Business Intelligence|商業頭腦|399|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#Business-Intelligence|
