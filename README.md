@@ -20,3 +20,4 @@
 |Normal Application I|普通的應用程式 I|487|T003_Chill Player|https://github.com/ryanlaw123/puctf25/blob/main/Reverse%20Engineering/Normal%20Application%20I.md#normal-application-i|
 |Normal Application II|普通的應用程式 II|500|T003_Chill Player|https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Normal%20Application%20II.md#normal-application-ii|
 |Business Intelligence|商業頭腦|399|T003_Chill Player|https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Business%20Intelligence.md#business-intelligence|
+|Dark and Darker|暗無止境|496|Aiden|https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup/blob/master/darker.md|
