@@ -14,3 +14,8 @@
 |JSON My Soul|JSON My Soul|115|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#JSON-My-Soul|
 |Business Intelligence|商業頭腦|399|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#Business-Intelligence|
 |BlueCoin 2.0|BlueCoin 2.0|500|YMD|https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20|
+|Deadliest Catches I II III|驚濤蟹浪 I II III|115,338,364|T003_Chill Player|https://github.com/ryanlaw123/puctf25/tree/main/Forensics|
+|ByBit Attack|Bybit 攻擊|409|T003_Chill Player|https://github.com/ryanlaw123/puctf25/blob/main/Blockchain/Bybit%20Attack.md#bybit-attack|
+|Normal Application I|普通的應用程式 I|487|T003_Chill Player|https://github.com/ryanlaw123/puctf25/blob/main/Reverse%20Engineering/Normal%20Application%20I.md#normal-application-i|
+|Normal Application II|普通的應用程式 II|500|T003_Chill Player|https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Normal%20Application%20II.md#normal-application-ii|
+|Business Intelligence|商業頭腦|399|T003_Chill Player|https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Business%20Intelligence.md#business-intelligence|
