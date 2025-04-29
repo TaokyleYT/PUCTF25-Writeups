@@ -26,6 +26,7 @@
 |[C2 Pcap Analysis](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#C2-Pcap-Analysis-5-solves)|[C2 流量分析](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#C2-Pcap-Analysis-5-solves)|Forensics<br>鑑證|496|ivanwong|
 |[K1K1_Soldiers](https://github.com/TaokyleYT/PUCTF25-K1K1_Soldiers-Writeup)|[護渏手](https://github.com/TaokyleYT/PUCTF25-K1K1_Soldiers-Writeup)|Artificial Intelligence<br>人工智能|50|Taokyle|
 |[K1K1_Soldiers_Super](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#K1K1_Soldiers-Super-6-solves)|[護渏手 Super](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#K1K1_Soldiers-Super-6-solves)|Artificial Intelligence<br>人工智能|493|ivanwong|
+|[NuttyBot](https://hackmd.io/@YMD/SJBSCbZ1lg#NuttyBot)|[NuttyBot](https://hackmd.io/@YMD/SJBSCbZ1lg#NuttyBot)|Artificial Intelligence<br>人工智能|419|YMD|
 |[AI Teacher](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#AI-Teacher-3-solves)|[人工智能老師](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#AI-Teacher-3-solves)|Artificial Intelligence<br>人工智能|499|ivanwong|
 |[Dark and Darker](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup/blob/master/darker.md)|[暗無止境](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup/blob/master/darker.md)|Pwn/Exploitation<br>程式漏洞利用|496|Aiden|
 |[Memory Puzzle](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#Memory-Puzzle-2-solves)|[記憶拼圖](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#Memory-Puzzle-2-solves)|Pwn/Exploitation<br>程式漏洞利用|500|attempt0|
