@@ -8,6 +8,7 @@
 |[Operation Barbarossa, 1941](https://github.com/TaokyleYT/PUCTF25-Operation_Barbarossa_1941-Writeup)|[巴巴羅薩行動](https://github.com/TaokyleYT/PUCTF25-Operation_Barbarossa_1941-Writeup)|Cryptography<br>密碼學|500|Taokyle|
 |[Jump Jump](https://github.com/TaokyleYT/PUCTF25-Jump_Jump-Writeup)|[Jump Jump](https://github.com/TaokyleYT/PUCTF25-Jump_Jump-Writeup)|Reverse Engineering<br>逆向工程|409|Taokyle|
 |[Minesweeper](https://github.com/TaokyleYT/PUCTF25-Minesweeper-Writeup)|[踩地雷](https://github.com/TaokyleYT/PUCTF25-Minesweeper-Writeup)|Reverse Engineering<br>逆向工程|498|Taokyle|
+|[Encryptor](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#Encryptor-1-solve)|[加密器](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#Encryptor-1-solve)|Reverse Engineering<br>逆向工程|500|attempt0|
 |[Normal Application I](https://github.com/ryanlaw123/puctf25/blob/main/Reverse%20Engineering/Normal%20Application%20I.md#normal-application-i)|[普通的應用程式 I](https://github.com/ryanlaw123/puctf25/blob/main/Reverse%20Engineering/Normal%20Application%20I.md#normal-application-i)|Reverse Engineering<br>逆向工程|487|T003_Chill Player|
 |[Normal Application II](https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Normal%20Application%20II.md#normal-application-ii)|[普通的應用程式 II](https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Normal%20Application%20II.md#normal-application-ii)|Miscellaneous<br>雜項|500|T003_Chill Player|
 |[Catch that Arcadeholic](https://github.com/TaokyleYT/PUCTF25-Catch_that_Arcadeholic-Writeup)|[捉住嗰個街機佬](https://github.com/TaokyleYT/PUCTF25-Catch_that_Arcadeholic-Writeup)|Miscellaneous<br>雜項|136|Taokyle|
@@ -27,5 +28,7 @@
 |[K1K1_Soldiers_Super](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#K1K1_Soldiers-Super-6-solves)|[護渏手 Super](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#K1K1_Soldiers-Super-6-solves)|Artificial Intelligence<br>人工智能|493|ivanwong|
 |[AI Teacher](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#AI-Teacher-3-solves)|[人工智能老師](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#AI-Teacher-3-solves)|Artificial Intelligence<br>人工智能|499|ivanwong|
 |[Dark and Darker](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup/blob/master/darker.md)|[暗無止境](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup/blob/master/darker.md)|Pwn/Exploitation<br>程式漏洞利用|496|Aiden|
+|[Memory Puzzle](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#Memory-Puzzle-2-solves)|[記憶拼圖](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#Memory-Puzzle-2-solves)|Pwn/Exploitation<br>程式漏洞利用|500|attempt0|
 |[ByBit Attack](https://github.com/ryanlaw123/puctf25/blob/main/Blockchain/Bybit%20Attack.md#bybit-attack)|[Bybit 攻擊](https://github.com/ryanlaw123/puctf25/blob/main/Blockchain/Bybit%20Attack.md#bybit-attack)|Blockchain<br>區塊鏈|409|T003_Chill Player|
 |[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|Blockchain<br>區塊鏈|500|YMD|
+|[BlueCoin 3.0](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#BlueCoin-30-5-solves)|[BlueCoin 3.0](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#BlueCoin-30-5-solves)|Blockchain<br>區塊鏈|500|attempt0|
