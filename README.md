@@ -36,3 +36,16 @@
 |[ByBit Attack](https://github.com/ryanlaw123/puctf25/blob/main/Blockchain/Bybit%20Attack.md#bybit-attack)|[Bybit 攻擊](https://github.com/ryanlaw123/puctf25/blob/main/Blockchain/Bybit%20Attack.md#bybit-attack)|Blockchain<br>區塊鏈|409|T003_Chill Player|
 |[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|Blockchain<br>區塊鏈|500|YMD|
 |[BlueCoin 3.0](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#BlueCoin-30-5-solves)|[BlueCoin 3.0](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg#BlueCoin-30-5-solves)|Blockchain<br>區塊鏈|500|attempt0|
+
+<br><br><br>
+
+|Writeup Author (no order)|Team|
+|:-----------------------:|:--:|
+|[NuttyShell](https://nuttyshell.notion.site/Guide-of-Beginner-Challenges-1ccd5c0f2b068034b994d631712f4dc0) | [Organiser](https://polyuctf.com)|
+|[Taokyle](https://github.com/TaokyleYT?tab=repositories&q=PUCTF25&type=&language=&sort=) | [S051_Destroy Lai Lai's Machine](https://ctf.polyuctf.com/users/112)|
+|[ivanwong](https://hackmd.io/@ivanwong13768/PUCTF25_writeup) | [U001_Win or Mushroom](https://ctf.polyuctf.com/users/8)|
+|[KK](https://qslg154.github.io/posts/puctf25/) | [S005_SLS Team 1](https://ctf.polyuctf.com/users/21)|
+|[attempt0](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg) | [U026_Any pwn challenges left?](https://ctf.polyuctf.com/users/83)|
+|[T003_Chill Player](https://github.com/ryanlaw123/puctf25/) | [T003_Chill Player](https://ctf.polyuctf.com/users/19)|
+|[S017_Kadoorie](https://qiita.com/tournip/items/90da8ff66d2113c08ce8) | [S017_Kadoorie](https://ctf.polyuctf.com/users/44)|
+|[Aiden](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup) | [S031_UCCKE](https://ctf.polyuctf.com/users/75)|
