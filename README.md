@@ -5,6 +5,9 @@
 |[50 points questions](https://nuttyshell.notion.site/Guide-of-Beginner-Challenges-1ccd5c0f2b068034b994d631712f4dc0)|[50分簡單題目](https://nuttyshell.notion.site/Guide-of-Beginner-Challenges-1ccd5c0f2b068034b994d631712f4dc0)|All<br>不定|50|NuttyShell|
 |[The Lost Flag Reloaded](https://github.com/TaokyleYT/PUCTF25-The_Lost_Flag_Reloaded-Writeup)|[再次消失的旗幟](https://github.com/TaokyleYT/PUCTF25-The_Lost_Flag_Reloaded-Writeup)|Hardware<br>硬件|487|Taokyle|
 |[Call Me Tonight](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#Call-Me-Tonight-8-solves)|[今晚call我](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#Call-Me-Tonight-8-solves)|Hardware<br>硬件|487|ivanwong|
+|[Simple RSA](https://qslg154.github.io/posts/puctf25/#simple-rsa)|[簡易RSA](https://qslg154.github.io/posts/puctf25/#simple-rsa)|Cryptography<br>密碼學|437|KK|
+|[Zero Knowledge](https://qslg154.github.io/posts/puctf25/#zero-knowledge)|[0識](https://qslg154.github.io/posts/puctf25/#zero-knowledge)|Cryptography<br>密碼學|445|KK|
+|[Simple AES](https://qslg154.github.io/posts/puctf25/#simple-aes)|[簡易AES](https://qslg154.github.io/posts/puctf25/#simple-aes)|Cryptography<br>密碼學|482|KK|
 |[Operation Barbarossa, 1941](https://github.com/TaokyleYT/PUCTF25-Operation_Barbarossa_1941-Writeup)|[巴巴羅薩行動](https://github.com/TaokyleYT/PUCTF25-Operation_Barbarossa_1941-Writeup)|Cryptography<br>密碼學|500|Taokyle|
 |[Jump Jump](https://github.com/TaokyleYT/PUCTF25-Jump_Jump-Writeup)|[Jump Jump](https://github.com/TaokyleYT/PUCTF25-Jump_Jump-Writeup)|Reverse Engineering<br>逆向工程|409|Taokyle|
 |[Minesweeper](https://github.com/TaokyleYT/PUCTF25-Minesweeper-Writeup)|[踩地雷](https://github.com/TaokyleYT/PUCTF25-Minesweeper-Writeup)|Reverse Engineering<br>逆向工程|498|Taokyle|
