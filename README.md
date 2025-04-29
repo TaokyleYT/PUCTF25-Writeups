@@ -27,5 +27,5 @@
 |[K1K1_Soldiers_Super](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#K1K1_Soldiers-Super-6-solves)|[護渏手 Super](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#K1K1_Soldiers-Super-6-solves)|Artificial Intelligence<br>人工智能|493|ivanwong|
 |[AI Teacher](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#AI-Teacher-3-solves)|[人工智能老師](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#AI-Teacher-3-solves)|Artificial Intelligence<br>人工智能|499|ivanwong|
 |[Dark and Darker](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup/blob/master/darker.md)|[暗無止境](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup/blob/master/darker.md)|Pwn/Exploitation<br>程式漏洞利用|496|Aiden|
-|[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|Blockchain<br>區塊鏈|500|YMD|
 |[ByBit Attack](https://github.com/ryanlaw123/puctf25/blob/main/Blockchain/Bybit%20Attack.md#bybit-attack)|[Bybit 攻擊](https://github.com/ryanlaw123/puctf25/blob/main/Blockchain/Bybit%20Attack.md#bybit-attack)|Blockchain<br>區塊鏈|409|T003_Chill Player|
+|[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|[BlueCoin 2.0](https://hackmd.io/@YMD/SJBSCbZ1lg#BlueCoin-20)|Blockchain<br>區塊鏈|500|YMD|
