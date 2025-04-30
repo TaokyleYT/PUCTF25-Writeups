@@ -23,7 +23,7 @@
 |[JSON My Soul](https://hackmd.io/@YMD/SJBSCbZ1lg#JSON-My-Soul)|[JSON My Soul](https://hackmd.io/@YMD/SJBSCbZ1lg#JSON-My-Soul)|Web Exploitation<br>網頁漏洞利用|115|YMD|
 |[Deadliest Catches I](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20I.md)|[驚濤蟹浪 I](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20I.md)|Forensics<br>鑑證|115|T003_Chill Player|
 |[Deadliest Catches II](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20II.md)|[驚濤蟹浪 II](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20I.md)|Forensics<br>鑑證|338|T003_Chill Player|
-|[Deadliest Catches I II III](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20III.md)|[驚濤蟹浪 III](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20III.md)|Forensics<br>鑑證|453|T003_Chill Player|
+|[Deadliest Catches III](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20III.md)|[驚濤蟹浪 III](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20III.md)|Forensics<br>鑑證|453|T003_Chill Player|
 |[Deadliest Catches IV](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#Deadliest-Catch-IV-5-solves)|[驚濤蟹浪 IV](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#Deadliest-Catch-IV-5-solves)|Forensics<br>鑑證|496|ivanwong|
 |[Get the Flag](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Get%20the%20Flag.md)|[Get the Flag](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Get%20the%20Flag.md)|Forensics<br>鑑證|364|T003_Chill Player|
 |[C2 Pcap Analysis](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#C2-Pcap-Analysis-5-solves)|[C2 流量分析](https://hackmd.io/@ivanwong13768/PUCTF25_writeup#C2-Pcap-Analysis-5-solves)|Forensics<br>鑑證|496|ivanwong|
@@ -39,7 +39,7 @@
 
 <br><br><br>
 
-|Writeup Author (no order)|Team|
+|Writeup Author<br>(no order)|Team|
 |:-----------------------:|:--:|
 |[NuttyShell](https://nuttyshell.notion.site/Guide-of-Beginner-Challenges-1ccd5c0f2b068034b994d631712f4dc0) | [Organiser](https://polyuctf.com)|
 |[Taokyle](https://github.com/TaokyleYT?tab=repositories&q=PUCTF25&type=&language=&sort=) | [S051_Destroy Lai Lai's Machine](https://ctf.polyuctf.com/users/112)|
