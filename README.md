@@ -18,9 +18,11 @@
 |[Digital Instrumentality Project](https://github.com/TaokyleYT/PUCTF25-Digital_Instrumentality_Project-Writeup)|[人類補完計劃](https://github.com/TaokyleYT/PUCTF25-Digital_Instrumentality_Project-Writeup)|Miscellaneous<br>雜項|487|Taokyle|
 |[Business Intelligence](https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Business%20Intelligence.md)|[商業頭腦](https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/Business%20Intelligence.md)|Miscellaneous<br>雜項|399|T003_Chill Player|
 |[私日本語本当苦手](https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/私日本語本当苦手.md)|[私日本語本当苦手](https://github.com/ryanlaw123/puctf25/blob/main/Miscellaneous/私日本語本当苦手.md)|Miscellaneous<br>雜項|194|T003_Chill Player|
-|[NuttyShell File Manager](https://qiita.com/tournip/items/90da8ff66d2113c08ce8#introduction)|[NuttyShell 檔案管理員](https://qiita.com/tournip/items/90da8ff66d2113c08ce8#introduction)|Web Exploitation<br>網頁漏洞利用|496|S017_Kadoorie|
+|[JSON My Soul](https://siunam321.github.io/ctf/PUCTF-2025/web/JSON-My-Soul/)|[JSON My Soul](https://siunam321.github.io/ctf/PUCTF-2025/web/JSON-My-Soul/)|Web Exploitation<br>網頁漏洞利用|115|Siunam|
+|[NuttyShell File Manager](https://qiita.com/tournip/items/90da8ff66d2113c08ce8)|[NuttyShell 檔案管理員](https://qiita.com/tournip/items/90da8ff66d2113c08ce8)|Web Exploitation<br>網頁漏洞利用|496|S017_Kadoorie|
 |[NuttyShell College Portal](https://hackmd.io/@YMD/SJBSCbZ1lg#NuttyShell-College-Portal)|[NuttyShell 大學學生網站](https://hackmd.io/@YMD/SJBSCbZ1lg#NuttyShell-College-Portal)|Web Exploitation<br>網頁漏洞利用|490|YMD|
-|[JSON My Soul](https://hackmd.io/@YMD/SJBSCbZ1lg#JSON-My-Soul)|[JSON My Soul](https://hackmd.io/@YMD/SJBSCbZ1lg#JSON-My-Soul)|Web Exploitation<br>網頁漏洞利用|115|YMD|
+|[COVID-19 Mutation History](https://siunam321.github.io/ctf/PUCTF-2025/web/COVID-19-Mutation-History/)|[COVID-19 病毒突變歷史](https://siunam321.github.io/ctf/PUCTF-2025/web/COVID-19-Mutation-History/)|Web Exploitation<br>網頁漏洞利用|500|Siunam|
+|[Memo-ry](https://siunam321.github.io/ctf/PUCTF-2025/web/Memo-ry/)|[Memo-ry](https://siunam321.github.io/ctf/PUCTF-2025/web/Memo-ry/)|Web Exploitation<br>網頁漏洞利用|500|Siunam|
 |[Deadliest Catches I](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20I.md)|[驚濤蟹浪 I](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20I.md)|Forensics<br>鑑證|115|T003_Chill Player|
 |[Deadliest Catches II](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20II.md)|[驚濤蟹浪 II](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20I.md)|Forensics<br>鑑證|338|T003_Chill Player|
 |[Deadliest Catches III](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20III.md)|[驚濤蟹浪 III](https://github.com/ryanlaw123/puctf25/tree/main/Forensics/Deadliest%20Catch%20III.md)|Forensics<br>鑑證|453|T003_Chill Player|
@@ -41,11 +43,12 @@
 
 |Writeup Author<br>(no order)|Team|
 |:-----------------------:|:--:|
-|[NuttyShell](https://nuttyshell.notion.site/Guide-of-Beginner-Challenges-1ccd5c0f2b068034b994d631712f4dc0) | [Organiser](https://polyuctf.com)|
+|[NuttyShell](https://nuttyshell.notion.site/Guide-of-Beginner-Challenges-1ccd5c0f2b068034b994d631712f4dc0) | [NuttyShell (Organiser)](https://polyuctf.com)|
 |[Taokyle](https://github.com/TaokyleYT?tab=repositories&q=PUCTF25&type=&language=&sort=) | [S051_Destroy Lai Lai's Machine](https://ctf.polyuctf.com/users/112)|
 |[ivanwong](https://hackmd.io/@ivanwong13768/PUCTF25_writeup) | [U001_Win or Mushroom](https://ctf.polyuctf.com/users/8)|
 |[KK](https://qslg154.github.io/posts/puctf25/) | [S005_SLS Team 1](https://ctf.polyuctf.com/users/21)|
 |[attempt0](https://hackmd.io/Re9PeokSQjKoa1nu36LSZg) | [U026_Any pwn challenges left?](https://ctf.polyuctf.com/users/83)|
 |[T003_Chill Player](https://github.com/ryanlaw123/puctf25/) | [T003_Chill Player](https://ctf.polyuctf.com/users/19)|
+|[Siunam](https://siunam321.github.io/ctf/PUCTF-2025/) | [NuttyShell (Organiser)](https://polyuctf.com)|
 |[S017_Kadoorie](https://qiita.com/tournip/items/90da8ff66d2113c08ce8) | [S017_Kadoorie](https://ctf.polyuctf.com/users/44)|
 |[Aiden](https://github.com/SleepingDragon22/nuttyshell-ctf-25-writeup) | [S031_UCCKE](https://ctf.polyuctf.com/users/75)|
